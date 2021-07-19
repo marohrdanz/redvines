@@ -55,11 +55,7 @@ project on GitHub.
 
 ## Vignettes
 
-- [Create a NG-CHM](/create-a-ng-chm): Create a NG-CHM and export as a stand-alone HTML file or as a .nghcm file to load to the {{< link text="NG-CHM  viewer" url="https://www.ngchm.net/Downloads/ngChmApp.html" >}}
-- [Covariate Bars and Discrete Color Maps](/covariate-bars-and-discrete-color-maps): Add covariate bars and specify their color map
-- [Continuous Color Maps and Data Layers](/continuous-color-maps-and-data-layers): Add multiple data layers and specify their color map
-- [Clustering and Column/Row Ordering](/clustering-and-column-row-ordering): Specify options for clustering/ordering rows and columns
-- [Adding Linkouts](/adding-linkouts): Add linkouts to row and column labels
+- [Create a NG-CHM](/redvines/create-a-ng-chm): Create a NG-CHM and export as a stand-alone HTML file or as a .nghcm file to load to the [NG-CHM  viewer](https://www.ngchm.net/Downloads/ngChmApp.html).
 
 
 [Back to top](#)
