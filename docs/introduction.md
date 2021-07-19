@@ -1,20 +1,7 @@
----
-title: "Introduction"
-output: rmarkdown::html_vignette
-vignette: >
-  %\VignetteIndexEntry{my-vignette}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
----
+## Introduction
 
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>"
-)
-```
 
-```{r setup}
+```{r}
 library(redvines)
 ```
 
